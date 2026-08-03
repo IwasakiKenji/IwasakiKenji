@@ -27,7 +27,7 @@ I am a professional focused on **Data Engineering and Web Development**, passion
 
 ### 📫 Connect with me
 
-- **LinkedIn:** [Gabriel Kenji Zanluchi Iwasaki](www.linkedin.com/in/gabriel-kenji-zanluchi-iwasaki-113987231)
+- **LinkedIn:** [www.linkedin.com/in/gabriel-kenji-zanluchi-iwasaki-113987231](www.linkedin.com/in/gabriel-kenji-zanluchi-iwasaki-113987231)
 - **Email:** [kenjigabriel90@gmail.com]
 
 ---
