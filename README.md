@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @IwasakiKenji
-- 👀 I’m interested in Software developement, AI developing , data science
-- 🌱 I’m currently learning Python, SQL Server
-- 📫 How to reach me: cellphone (11)96405-9512 / Linkedin: www.linkedin.com/in/gabriel-kenji-zanluchi-iwasaki-113987231 / e-mail: kenjigabriel90@gmail.com
+# 👋 Hi, I'm Gabriel Kenji Iwasaki
 
-<!---
-IwasakiKenji/IwasakiKenji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Data Engineer | Web Developer
+
+I am a professional focused on **Data Engineering and Web Development**, passionate about building efficient data solutions, developing applications, and continuously improving my technical skills.
+
+### 🚀 Currently learning and improving
+
+- Databricks
+- SQL Server
+- Data Engineering
+- Database Development
+- Web Development
+- PHP
+- Jobs and pipelines
+- Data Processing and Automation
+
+### 🛠️ Areas of interest
+
+- Data pipelines and ETL processes
+- Database modeling and optimization
+- Data analysis and automation
+- Backend and web application development
+- Scalable and reliable software solutions
+- Data Engineering
+- Data Science
+
+### 📫 Connect with me
+
+- **LinkedIn:** [Gabriel Kenji Zanluchi Iwasaki](www.linkedin.com/in/gabriel-kenji-zanluchi-iwasaki-113987231)
+- **Email:** [kenjigabriel90@gmail.com]
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
