@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Kenji Iwasaki
 
-## Data Engineer | Web Developer
+## Data Engineer
 
 I am a professional focused on **Data Engineering and Web Development**, passionate about building efficient data solutions, developing applications, and continuously improving my technical skills.
 
